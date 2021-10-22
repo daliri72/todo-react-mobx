@@ -4,6 +4,7 @@ import TodoItemClass from "../stores/todo-item";
 
 import { useStore } from '../providers/store-provider';
 
+// interface
 interface Props {
     todo: TodoItemClass;
 }
